@@ -1,0 +1,5 @@
+v2 2013-12-11
+usage: run "南开一键评教 v2.bat" and follow the instructions.
+
+Contact:jeffli678@sina.com
+2013-12-11

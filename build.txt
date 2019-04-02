@@ -1,0 +1,6 @@
+Dependencies: wxPython; py2exe
+
+Command: python setup.py py2exe
+
+Contact:jeffli678@sina.com
+2013-12-11
